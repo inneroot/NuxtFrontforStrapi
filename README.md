@@ -1,10 +1,10 @@
 # nuxtfy
 
-> fron for strapi
+> front for strapi
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
